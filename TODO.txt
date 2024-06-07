@@ -1,0 +1,5 @@
+Add two buttons in the main window for training type : squat or benchpress
+
+Add a text box to change the output excel file name (default = date + username + weight to lift + training type)
+
+Add button "start measurements"
