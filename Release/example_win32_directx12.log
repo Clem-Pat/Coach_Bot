@@ -1,0 +1,122 @@
+﻿  TrainerApp.cpp
+C:\Users\TUS\Desktop\CoachBot\imgui\backends\GPC3300\include\GpcDa.h(1,1): warning C4828: The file contains a character starting at offset 0x4705 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'TrainerApp.cpp')
+  
+C:\Users\TUS\Desktop\CoachBot\imgui\backends\GPC3300\include\GpcDa.h(1,1): warning C4828: The file contains a character starting at offset 0x4708 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'TrainerApp.cpp')
+  
+C:\Users\TUS\Desktop\CoachBot\imgui\backends\GPC3100\include\GpcAd.h(1,1): warning C4828: The file contains a character starting at offset 0x64f that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'TrainerApp.cpp')
+  
+C:\Users\TUS\Desktop\CoachBot\imgui\backends\GPC3100\include\GpcAd.h(1,1): warning C4828: The file contains a character starting at offset 0x651 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'TrainerApp.cpp')
+  
+C:\Users\TUS\Desktop\CoachBot\imgui\backends\GPC3100\include\GpcAd.h(1,1): warning C4828: The file contains a character starting at offset 0x652 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'TrainerApp.cpp')
+  
+C:\Users\TUS\Desktop\CoachBot\imgui\backends\GPC3100\include\GpcAd.h(1,1): warning C4828: The file contains a character starting at offset 0x653 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'TrainerApp.cpp')
+  
+C:\Users\TUS\Desktop\CoachBot\imgui\backends\GPC3100\include\GpcAd.h(1,1): warning C4828: The file contains a character starting at offset 0x655 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'TrainerApp.cpp')
+  
+C:\Users\TUS\Desktop\CoachBot\imgui\backends\GPC3100\include\GpcAd.h(1,1): warning C4828: The file contains a character starting at offset 0x656 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'TrainerApp.cpp')
+  
+C:\Users\TUS\Desktop\CoachBot\imgui\backends\GPC3100\include\GpcAd.h(1,1): warning C4828: The file contains a character starting at offset 0x657 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'TrainerApp.cpp')
+  
+C:\Users\TUS\Desktop\CoachBot\imgui\backends\GPC3100\include\GpcAd.h(1,1): warning C4828: The file contains a character starting at offset 0x658 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'TrainerApp.cpp')
+  
+C:\Users\TUS\Desktop\CoachBot\imgui\backends\GPC3100\include\GpcAd.h(1,1): warning C4828: The file contains a character starting at offset 0x659 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'TrainerApp.cpp')
+  
+C:\Users\TUS\Desktop\CoachBot\imgui\backends\GPC3100\include\GpcAd.h(1,1): warning C4828: The file contains a character starting at offset 0x65b that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'TrainerApp.cpp')
+  
+C:\Users\TUS\Desktop\CoachBot\imgui\backends\GPC3100\include\GpcAd.h(1,1): warning C4828: The file contains a character starting at offset 0x65c that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'TrainerApp.cpp')
+  
+C:\Users\TUS\Desktop\CoachBot\imgui\backends\GPC3100\include\GpcAd.h(1,1): warning C4828: The file contains a character starting at offset 0x65d that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'TrainerApp.cpp')
+  
+C:\Users\TUS\Desktop\CoachBot\imgui\backends\GPC3100\include\GpcAd.h(1,1): warning C4828: The file contains a character starting at offset 0x65e that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'TrainerApp.cpp')
+  
+C:\Users\TUS\Desktop\CoachBot\imgui\backends\GPC3100\include\GpcAd.h(1,1): warning C4828: The file contains a character starting at offset 0x65f that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'TrainerApp.cpp')
+  
+C:\Users\TUS\Desktop\CoachBot\imgui\backends\GPC3100\include\GpcAd.h(1,1): warning C4828: The file contains a character starting at offset 0x661 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'TrainerApp.cpp')
+  
+C:\Users\TUS\Desktop\CoachBot\imgui\backends\GPC3100\include\GpcAd.h(1,1): warning C4828: The file contains a character starting at offset 0x664 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'TrainerApp.cpp')
+  
+C:\Users\TUS\Desktop\CoachBot\imgui\backends\GPC3100\include\GpcAd.h(1,1): warning C4828: The file contains a character starting at offset 0x5b3f that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'TrainerApp.cpp')
+  
+C:\Users\TUS\Desktop\CoachBot\imgui\backends\GPC3100\include\GpcAd.h(1,1): warning C4828: The file contains a character starting at offset 0x5b42 that is illegal in the current source character set (codepage 65001).
+  (compiling source file 'TrainerApp.cpp')
+  
+C:\Users\TUS\Desktop\CoachBot\imgui\examples\example_win32_directx12\TrainerBotManager.h(93,27): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'TrainerApp.cpp')
+  
+C:\Users\TUS\Desktop\CoachBot\imgui\examples\example_win32_directx12\TrainerApp.cpp(87,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\TUS\Desktop\CoachBot\imgui\examples\example_win32_directx12\TrainerApp.cpp(107,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\TUS\Desktop\CoachBot\imgui\examples\example_win32_directx12\TrainerApp.cpp(116,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\TUS\Desktop\CoachBot\imgui\examples\example_win32_directx12\TrainerApp.cpp(129,51): warning C4458: declaration of 'x' hides class member
+  C:\Users\TUS\Desktop\CoachBot\imgui\examples\example_win32_directx12\TrainerApp.h(47,25):
+  see declaration of 'TrainerApp::x'
+  
+C:\Users\TUS\Desktop\CoachBot\imgui\examples\example_win32_directx12\TrainerApp.cpp(129,75): warning C4458: declaration of 'y' hides class member
+  C:\Users\TUS\Desktop\CoachBot\imgui\examples\example_win32_directx12\TrainerApp.h(51,25):
+  see declaration of 'TrainerApp::y'
+  
+C:\Users\TUS\Desktop\CoachBot\imgui\examples\example_win32_directx12\TrainerApp.cpp(152,82): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\TUS\Desktop\CoachBot\imgui\examples\example_win32_directx12\TrainerApp.cpp(169,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\TUS\Desktop\CoachBot\imgui\examples\example_win32_directx12\TrainerApp.cpp(198,41): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\TUS\Desktop\CoachBot\imgui\examples\example_win32_directx12\TrainerApp.cpp(241,30): warning C4456: declaration of 'i' hides previous local declaration
+  C:\Users\TUS\Desktop\CoachBot\imgui\examples\example_win32_directx12\TrainerApp.cpp(154,18):
+  see declaration of 'i'
+  
+C:\Users\TUS\Desktop\CoachBot\imgui\examples\example_win32_directx12\TrainerApp.cpp(265,33): warning C4456: declaration of 'i' hides previous local declaration
+  C:\Users\TUS\Desktop\CoachBot\imgui\examples\example_win32_directx12\TrainerApp.cpp(154,18):
+  see declaration of 'i'
+  
+C:\Users\TUS\Desktop\CoachBot\imgui\examples\example_win32_directx12\TrainerApp.cpp(269,33): warning C4456: declaration of 'i' hides previous local declaration
+  C:\Users\TUS\Desktop\CoachBot\imgui\examples\example_win32_directx12\TrainerApp.cpp(154,18):
+  see declaration of 'i'
+  
+C:\Users\TUS\Desktop\CoachBot\imgui\examples\example_win32_directx12\TrainerApp.cpp(284,43): warning C4018: '<': signed/unsigned mismatch
+C:\Users\TUS\Desktop\CoachBot\imgui\examples\example_win32_directx12\TrainerApp.cpp(296,34): warning C4456: declaration of 'i' hides previous local declaration
+  C:\Users\TUS\Desktop\CoachBot\imgui\examples\example_win32_directx12\TrainerApp.cpp(154,18):
+  see declaration of 'i'
+  
+C:\Users\TUS\Desktop\CoachBot\imgui\examples\example_win32_directx12\TrainerApp.cpp(296,43): warning C4018: '<': signed/unsigned mismatch
+C:\Users\TUS\Desktop\CoachBot\imgui\examples\example_win32_directx12\TrainerApp.cpp(166,29): warning C4996: 'ImPlot::BeginPlot': was declared deprecated
+C:\Users\TUS\Desktop\CoachBot\imgui\examples\example_win32_directx12\TrainerApp.cpp(256,29): warning C4996: 'ImPlot::BeginPlot': was declared deprecated
+C:\Users\TUS\Desktop\CoachBot\imgui\examples\example_win32_directx12\TrainerApp.cpp(281,33): warning C4996: 'ImPlot::BeginPlot': was declared deprecated
+C:\Users\TUS\Desktop\CoachBot\imgui\examples\example_win32_directx12\TrainerApp.cpp(316,33): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\TUS\Desktop\CoachBot\imgui\examples\example_win32_directx12\TrainerApp.cpp(326,33): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\TUS\Desktop\CoachBot\imgui\examples\example_win32_directx12\TrainerApp.cpp(170,31): warning C4189: 'fc': local variable is initialized but not referenced
+C:\Users\TUS\Desktop\CoachBot\imgui\examples\example_win32_directx12\TrainerApp.cpp(537,27): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\TUS\Desktop\CoachBot\imgui\examples\example_win32_directx12\TrainerApp.cpp(561,27): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\TUS\Desktop\CoachBot\imgui\examples\example_win32_directx12\TrainerApp.cpp(680,116): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\TUS\Desktop\CoachBot\imgui\examples\example_win32_directx12\TrainerApp.cpp(680,100): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\TUS\Desktop\CoachBot\imgui\examples\example_win32_directx12\TrainerApp.cpp(681,115): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\TUS\Desktop\CoachBot\imgui\examples\example_win32_directx12\TrainerApp.cpp(681,99): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\TUS\Desktop\CoachBot\imgui\examples\example_win32_directx12\TrainerApp.cpp(682,116): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\TUS\Desktop\CoachBot\imgui\examples\example_win32_directx12\TrainerApp.cpp(682,100): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\TUS\Desktop\CoachBot\imgui\examples\example_win32_directx12\TrainerApp.cpp(691,130): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\TUS\Desktop\CoachBot\imgui\examples\example_win32_directx12\TrainerApp.cpp(691,114): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\TUS\Desktop\CoachBot\imgui\examples\example_win32_directx12\TrainerApp.cpp(692,128): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\TUS\Desktop\CoachBot\imgui\examples\example_win32_directx12\TrainerApp.cpp(692,112): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\TUS\Desktop\CoachBot\imgui\examples\example_win32_directx12\TrainerApp.cpp(693,130): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+C:\Users\TUS\Desktop\CoachBot\imgui\examples\example_win32_directx12\TrainerApp.cpp(693,114): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+  Generating code
+  2 of 8869 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    174 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  example_win32_directx12.vcxproj -> C:\Users\TUS\Desktop\CoachBot\imgui\examples\example_win32_directx12\Release\example_win32_directx12.exe
