@@ -1,0 +1,1 @@
+TimeStamp[ms],Theta0[rad],Theta1[rad],theta_diff0[rad],theta_diff1[rad],distance0[m],distance1[m],Ang_V0[rad/s],Ang_V1[rad/s],Ang_A0[rad/s2],Ang_A1[rad/s2],OUTPUT0[Nm],OUTPUT1[Nm],TimeStamp[ms],POWER1[kgm/s2],POWER2[kgm/s2],POWER_both[kgm/s2],POWER1[N],POWER2[N],POWER_both[N],dennryu_Left,dennryu_Right,Loadcell_Left,Loadcell_Right
