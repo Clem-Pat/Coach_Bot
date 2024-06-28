@@ -10,6 +10,9 @@ The software helps people to use a machine that can help them estimating their O
 It is separated into 5 main C++ classes. Trainer, TrainerApp, TrainerBotManager, TrainerDataManager and TrainerPredictor.
 
 
+## Class Diagramm
+![Class Diagram](https://github.com/Clem-Pat/TrainerBot/blob/main/resources/Screenshot%2024-05-31%145034.png)
+
 
 ## Screenshots
 
