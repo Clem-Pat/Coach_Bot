@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Trainer">
+    <Position X="5.25" Y="1" Width="2.25" />
+    <Members>
+      <Field Name="hwnd" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <AssociationLine Name="app" Type="TrainerApp" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="5.25" Y="2.171" />
+        <Point X="4.875" Y="2.171" />
+        <Point X="4.875" Y="2.938" />
+        <Point X="4.25" Y="2.938" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.069" Y="-0.312" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="dataManager" Type="TrainerDataManager">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-1.171" Y="0.129" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="predictor" Type="TrainerPredictor" FixedFromPoint="true">
+      <Path>
+        <Point X="7.5" Y="1.562" />
+        <Point X="10.5" Y="1.562" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="dataRenderer" Type="TrainerDataRenderer" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="7.5" Y="2.171" />
+        <Point X="7.875" Y="2.171" />
+        <Point X="7.875" Y="2.938" />
+        <Point X="8.5" Y="2.938" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.101" Y="-0.345" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIoEACAAEAYAAAACAIADEIABAgCAAAAgAgRA=</HashCode>
+      <FileName>Trainer.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="app" />
+      <Field Name="dataManager" />
+      <Field Name="botManager" />
+      <Field Name="predictor" />
+      <Field Name="trainerSimulator" />
+      <Field Name="dataRenderer" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="TrainerApp">
+    <Position X="2.25" Y="2.75" Width="2" />
+    <Members>
+      <Method Name="FindIndexOfEmptyPlotForLabel" Hidden="true" />
+      <Method Name="MakeDockingPossible" Hidden="true" />
+      <Method Name="TrainerApp" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>FAqSABD2gFMAPAEgVZBiBCCUKYQABgBIjEAOAoBqhoE=</HashCode>
+      <FileName>TrainerApp.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="trapeze" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="TrainerBotManager">
+    <Position X="0.5" Y="1" Width="2" />
+    <Members>
+      <Method Name="KalmanFilter2" Hidden="true" />
+      <Method Name="TrainerBotManager" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ARASG3ACxFAAIiAQAEkgCApqJ6AAxAG6EBcAFECYI0M=</HashCode>
+      <FileName>TrainerBotManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrainerDataManager">
+    <Position X="6.5" Y="4.5" Width="2" />
+    <Members>
+      <Method Name="Begin" Hidden="true" />
+      <Method Name="End" Hidden="true" />
+      <Method Name="TrainerDataManager" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAIAAAAACMARoAAAAECAAAAAAACQEAAgAUgCAAAAIAA=</HashCode>
+      <FileName>TrainerDataManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrainerPredictor">
+    <Position X="10.5" Y="1" Width="2.25" />
+    <Members>
+      <Method Name="TrainerPredictor" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>EAARAAJAAAAEIQcQECgCWABAEQACAICSSAUQACoAyAA=</HashCode>
+      <FileName>TrainerPredictor.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trapezoid" Collapsed="true">
+    <Position X="0.5" Y="4.5" Width="2.25" />
+    <Members>
+      <Method Name="Begin" Hidden="true" />
+      <Method Name="isNearVertex" Hidden="true" />
+      <Method Name="Trapezoid" Hidden="true" />
+    </Members>
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>BAAAQAAAAAAAAAAAAAAAAAAIAAgQEAIAAAAAAAAEAAA=</HashCode>
+      <FileName>Trapezoid.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrainerSimulator">
+    <Position X="4.25" Y="4.5" Width="2" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAIAQAAAAAAAAAAAgACAAAAAAAAgAAAAA=</HashCode>
+      <FileName>TrainerSimulator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrainerDataRenderer">
+    <Position X="8.5" Y="2.75" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>BBAAAAAQAAIBIAAAAIAIAACAAAAAAACAAAAEAAAACAA=</HashCode>
+      <FileName>TrainerDataRenderer.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TrainerAnalyser" Collapsed="true">
+    <Position X="9.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AuAAhgIBAAABIAAAASAAACCgAAREUAhPwIEACBDAAgA=</HashCode>
+      <FileName>TrainerAnalyser.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SetDataSaver" Collapsed="true">
+    <Position X="11.5" Y="6.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>sMAAAAAAAAAAAAACAAAAAAAAAAEEABAABAAAAAQAAEE=</HashCode>
+      <FileName>TrainerAnalyser.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CounterAnalyser" Collapsed="true">
+    <Position X="8" Y="6.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TrainerAnalyser.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OneRMAnalyser" Collapsed="true">
+    <Position X="9.75" Y="6.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAwAAAAAgAhAgABEAAAAAAAAAQBEgAECASA=</HashCode>
+      <FileName>TrainerAnalyser.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Line" Collapsed="true">
+    <Position X="2" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAACAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAFAAA=</HashCode>
+      <FileName>Line.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HorizontalLine" Collapsed="true">
+    <Position X="3" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAEAAA=</HashCode>
+      <FileName>Line.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VerticalLine" Collapsed="true">
+    <Position X="0.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAEAAA=</HashCode>
+      <FileName>Line.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Point" Collapsed="true">
+    <Position X="2" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAgAAAAAAAAAAAAAABAACAAABgAAABAAA=</HashCode>
+      <FileName>Point.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
