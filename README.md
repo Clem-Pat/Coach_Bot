@@ -11,7 +11,7 @@ It is separated into 5 main C++ classes. Trainer, TrainerApp, TrainerBotManager,
 
 
 ## Class Diagramm
-![Class Diagram](https://github.com/Clem-Pat/TrainerBot/blob/main/resources/ClassDiagram.png)
+![Class Diagram](https://github.com/Clem-Pat/TrainerBot/blob/main/resources/ClassDiagram_1.1.1.png)
 
 
 ## Screenshots
