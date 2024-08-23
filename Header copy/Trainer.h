@@ -1,3 +1,13 @@
+/*
+ * Application Name: CoachBot
+ * Version: 1.1.1
+ * Last Modified: 2023-23-08
+ * Author: Hashimoto Lab
+ * Developer: Clement Patrizio / clement.patrizio@ensta-bretagne.org
+ * Please refer to the Datasheet to know more about the application
+ */
+
+
 #pragma once
 #include <string>
 #include "TrainerApp.h"
