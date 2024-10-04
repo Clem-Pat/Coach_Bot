@@ -5,7 +5,7 @@ The Trainer Bot is a project mixing software development and robotics.
 The CoachBot is a C++ application that controls and gets data from fitness robots. 
 The robots use motors to apply a certain torque to the fitness bar so the user can lift it like a regular bar with plate weights. 
 
-| ![Image 1](https://github.com/Clem-Pat/TrainerBot/blob/main/resources/robot1.png) | ![Image 1](https://github.com/Clem-Pat/TrainerBot/blob/main/resources/robot2.png) |
+| ![Image 1](resources/robot1.jpg) | ![Image 1](https://github.com/Clem-Pat/TrainerBot/blob/main/resources/robot2.jpg) |
 |-------------------------------|-------------------------------|
 
 The goal of the project is to estimate the athlete's One-Repetition maximum (OneRM). The One RM is the maximum load that someone can lift in only one repetition. Trying to know one's One RM requires lifting a really heavy load. In fact, it can be dangerous for one's muscles and joints, especially for injured people. This is why we need to estimate it. 
@@ -20,8 +20,13 @@ It is separated into five main C++ classes. Trainer, TrainerApp, TrainerBotManag
 
 
 ## Screenshots
+![ImageApp](resources/homePage2.png)
 
-![Example Screenshot](https://github.com/Clem-Pat/TrainerBot/blob/main/resources/Screenshot%202024-06-28%20164925.png)
+
+## Project Report
+<a href="resources/Clement_PATRIZIO_Internship_report.pdf">
+  <img src="https://static.vecteezy.com/system/resources/previews/023/234/824/original/pdf-icon-red-and-white-color-for-free-png.png" alt="Guide Image" width="70" height="70">
+</a>
 
 
 ## Authors
