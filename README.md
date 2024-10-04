@@ -1,26 +1,32 @@
 
-# Trainer Bot
+# Coach Bot
 
-The Trainer Bot is a project mixing software development and robotics. 
-The CoachBot is a C++ application that controls and gets data from fitness robots. 
-The robots use motors to apply a certain torque to the fitness bar so the user can lift it like a regular bar with plate weights. 
+CoachBot is a C++ application that controls and gets data from fitness robots. 
+The robots use motors to apply a specific torque to the fitness bar so the user can lift it like a regular bar with plate weights. 
 
-| ![Image 1](resources/robot1.jpg) | ![Image 1](https://github.com/Clem-Pat/TrainerBot/blob/main/resources/robot2.jpg) |
-|-------------------------------|-------------------------------|
+<table>
+  <tr>
+    <td><img src="resources/robot1.jpg" alt="Image 1" width="300"/></td>
+    <td><img src="https://github.com/Clem-Pat/TrainerBot/blob/main/resources/robot2.jpg" alt="Image 2" width="300"/></td>
+  </tr>
+</table>
 
-The goal of the project is to estimate the athlete's One-Repetition maximum (OneRM). The One RM is the maximum load that someone can lift in only one repetition. Trying to know one's One RM requires lifting a really heavy load. In fact, it can be dangerous for one's muscles and joints, especially for injured people. This is why we need to estimate it. 
+The project aims to estimate the athlete's One-Repetition maximum (OneRM). The OneRM is the maximum load that someone can lift in only one repetition. Trying to know one's OneRM requires lifting a really heavy load. It can be dangerous for muscles and joints, especially for injured people. This is why we need to estimate it. 
 The software helps people to use a machine that can help them estimate their One RM. 
 
 The second goal is to estimate the athlete's Endurance. This is the maximum number of repetitions an athlete can do at a specific load. This is  
 It is separated into five main C++ classes. Trainer, TrainerApp, TrainerBotManager, TrainerDataManager and TrainerPredictor.
 
 
-## Class Diagramm
+
+## Screenshot of the application's home page
+![ImageApp](resources/homePage2.png)
+
+
+
+## Class Diagram
 ![Class Diagram](https://github.com/Clem-Pat/TrainerBot/blob/main/resources/ClassDiagram_1.1.1.png)
 
-
-## Screenshots
-![ImageApp](resources/homePage2.png)
 
 
 ## Project Report
