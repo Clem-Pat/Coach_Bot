@@ -3,6 +3,7 @@
 
 CoachBot is a C++ application that controls and gets data from fitness robots. 
 The robots use motors to apply a specific torque to the fitness bar so the user can lift it like a regular bar with plate weights. 
+
 This project was the subject of my four-month internship within the Hashimoto Laboratory at the Tokyo University of Science. 
 
 <table>
