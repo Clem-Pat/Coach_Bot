@@ -27,7 +27,7 @@ The second goal is to estimate the athlete's Endurance. This is defined as the m
 ## Technical brief description
 
 The architecture of the project has a tentacular shape.   
-It is separated into five main C++ classes that will interact with one another through the head class Trainer.
+It is separated into six main C++ classes that will interact with one another through the head class Trainer.
 
 
 ## Class Diagram
