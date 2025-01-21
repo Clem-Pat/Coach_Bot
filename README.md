@@ -8,10 +8,10 @@ This project was the subject of my four-month internship within the Hashimoto La
 
 <div align="center">
   <a style="margin: 0 10px;">
-    <img src="resources/robot1.jpg" alt="Image 1" height="500"/>
+    <img src="resources/robot1.jpg" alt="Image 1" height="300"/>
   </a>
   <a style="margin: 0 10px;">
-    <img src="https://github.com/Clem-Pat/TrainerBot/blob/main/resources/robot2.jpg" alt="Image 2" height="500"/>
+    <img src="https://github.com/Clem-Pat/TrainerBot/blob/main/resources/robot2.jpg" alt="Image 2" height="300"/>
   </a>
 </div>
 
