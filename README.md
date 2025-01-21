@@ -45,6 +45,14 @@ It is separated into six main C++ classes that will interact with one another th
 
 I am incredibly grateful to Professor Takuya Hashimoto, who trusted me and welcomed me into his laboratory at the Tokyo University of Science. His support gave me the opportunity to gain valuable experience in a country that was entirely new to me. Under his advice, I enhanced my technical skills in both development and robotics. Moreover, I discovered the unique and fascinating Japanese work culture, which enriched my personal and professional growth. This experience has been exceptional, and I owe much of it to his mentorship.
 
+<div style="text-align: center;">
+  <a href="https://www.ensta-bretagne.fr" style="margin: 0 10px;">
+    <img src="https://www.ensta-paris.fr/profiles/createur_profil/themes/createur/dist/images/logo_ensta_new2.png.pagespeed.ce.6ckDRmYhwW.png" alt="Logo ENSTA" width="200">
+  </a>
+  <a href="https://www.tus.ac.jp/en/" style="margin: 0 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/Tokyo_University_of_Science.svg" alt="Logo Tokyo University of Science" width="200">
+  </a>
+</div>
 
 ## Authors
 
