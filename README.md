@@ -8,10 +8,10 @@ This project was the subject of my four-month internship within the Hashimoto La
 
 <div align="center">
   <a style="margin: 0 10px;">
-    <img src="resources/robot1.jpg" alt="Image 1" width="300"/>
+    <img src="resources/robot1.jpg" alt="Image 1" height="500"/>
   </a>
   <a style="margin: 0 10px;">
-    <img src="https://github.com/Clem-Pat/TrainerBot/blob/main/resources/robot2.jpg" alt="Image 2" width="300"/>
+    <img src="https://github.com/Clem-Pat/TrainerBot/blob/main/resources/robot2.jpg" alt="Image 2" height="500"/>
   </a>
 </div>
 
@@ -49,7 +49,7 @@ I am incredibly grateful to Professor Takuya Hashimoto, who trusted me and welco
 
 <div align="center">
   <a href="https://www.ensta-bretagne.fr" style="margin: 0 10px;">
-    <img src="https://www.ensta-paris.fr/profiles/createur_profil/themes/createur/dist/images/logo_ensta_new.png.pagespeed.ce.4UezKLM3l6.png" alt="Logo ENSTA" width="200">
+    <img src="https://www.ensta-paris.fr/profiles/createur_profil/themes/createur/dist/images/logo_ensta_new.png.pagespeed.ce.4UezKLM3l6.png" alt="Logo ENSTA" width="300">
   </a>
   <a href="https://www.tus.ac.jp/en/" style="margin: 0 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/en/d/dd/Tokyo_University_of_Science.svg" alt="Logo Tokyo University of Science" width="100">
